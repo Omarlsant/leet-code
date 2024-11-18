@@ -1,5 +1,4 @@
 # 2879. Display the first three rows of the DataFrame
-
 import pandas as pd
 from typing import List
 
