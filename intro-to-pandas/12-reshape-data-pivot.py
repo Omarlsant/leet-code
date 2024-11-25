@@ -1,3 +1,4 @@
+# 2889. Reshape Data: Pivot
 import pandas as pd  # Importing: pandas library for data manipulation
 
 def pivotTable(weather: pd.DataFrame) -> pd.DataFrame:
