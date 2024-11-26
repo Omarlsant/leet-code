@@ -1,3 +1,4 @@
+# 2891. Method Chaining
 import pandas as pd  # Importing: pandas library for data manipulation
 
 def findHeavyAnimals(animals: pd.DataFrame) -> pd.DataFrame:
